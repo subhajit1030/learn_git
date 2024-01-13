@@ -1,2 +1,2 @@
 This is the first file to git.
-I dont want this in github
+I want this in github
